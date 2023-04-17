@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
 <a href="http://krayincrm.com"><img src="https://bagisto.com/wp-content/uploads/2021/06/bagisto-logo.png" alt="Total Downloads"></a>
 </p>
@@ -110,3 +111,7 @@ Krayin CRM is a truly opensource CRM framework which will always be free under t
 ### Security Vulnerabilities
 
 Please don't disclose security vulnerabilities publicly. If you find any security vulnerability in Krayin CRM then please email us: mailto:sales@krayincrm.com.
+=======
+# sg_crm
+Service Geni CRM, built using Krayin – Laravel CRM.  Krayin is an open-source customer relationship management (CRM) software built on the Laravel framework. It provides a comprehensive set of CRM features, such as contact management, leads, opportunities, quotations, orders, invoices, and more.
+>>>>>>> origin/main
